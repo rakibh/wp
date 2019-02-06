@@ -20,6 +20,7 @@ add_action('init', 'neuron_custom_post');
 ```
 
 
+
 ### A Custom Slug for a Custom Post Type
 ```PHP
 function neuron_custom_post()
@@ -38,6 +39,7 @@ function neuron_custom_post()
 }
 add_action('init', 'neuron_custom_post');
 ```
+
 
 
 ### Custom Post Type with all 
