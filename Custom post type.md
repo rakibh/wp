@@ -18,7 +18,7 @@ function neuron_custom_post()
 }
 add_action('init', 'neuron_custom_post');
 ```
-<br>
+
 <br>
 
 
@@ -42,7 +42,7 @@ add_action('init', 'neuron_custom_post');
 ```
 
 <br>
-<br>
+
 
 ### Custom Post Type with all 
 ```PHP
