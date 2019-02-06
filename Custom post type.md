@@ -1,6 +1,6 @@
 ### Custom Post Type Register
 
-```
+```PHP
 function neuron_custom_post()
 {
     register_post_type('wporg_product',
