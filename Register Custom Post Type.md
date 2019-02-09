@@ -102,3 +102,9 @@ function neuron_custom_post() {
 
 add_action( 'init', 'neuron_custom_post' );
 ```
+
+<br>
+WP Ref:
+https://developer.wordpress.org/reference/functions/register_post_type/
+https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/
+https://codex.wordpress.org/Function_Reference/register_post_type
